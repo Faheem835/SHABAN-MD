@@ -49,38 +49,27 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
  <p align="lift">
  <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-SHABAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
 
- -------------
+  -------------
   
-<a href='https://pair-f4wt.onrender.com' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+<a href='https://solar-linnell-shabansobxmd-409a0aff.koyeb.app/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE-008080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+
+  <a href='https://shabanmd-pairweb.zone.id/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE-FF8C00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 -------------
 
-<a href='https://shaban-md-pair2.zone.id/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-
--------------
-
-## _📡 DEPLOYMENT_
-
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN45/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=MRSHABAN45/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://shaban-free-host.zone.id/" target="_blank"><img src="https://img.shields.io/badge/Free VPS-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-  </table>
-</div>
+<a href="https://shabanmd.zone.id/">
+  <img 
+    title="DEPLOY-NOW" 
+    src="https://img.shields.io/badge/DEPLOY--NOW-Click%20to%20deploy-9400D3?style=for-the-badge&logo=vercel&logoColor=blue"
+    width="500" 
+    height="30.35"
+    alt="Deploy with Vercel"
+  />
+</a>
 
 -------------
 
@@ -124,12 +113,25 @@ jobs:
 
 -------
 
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
+
+
+> 🔔 Stay Connected For Updates Feature Drops And Tutorials!
+
+- ▶️ **YouTube SHABAN MD**  
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_)
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
+</p>
 
 ## ⚠️ _WARNING !_
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
   <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
-  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
+  <p style="color: #ffffff;">This Bot Is Not Affiliated With WhatsApp Inc. Use At Your Own Risk Misuse May Result In Account Bans</p>
 </div>
 
 ## 🗃️ _PROJECT ARCHITECTS_
@@ -163,5 +165,19 @@ jobs:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=+SHABAN+MD+QUALITY+EDITION+BY+MR+SHABAN42;⚡+THE+FUTURE+OF+WHATSAPP+BOT+IS+HERE" alt="Footer Animation">
 </h3>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<!-- New Animated Contributors -->
+<div style="margin-top:20px">
+
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/MRSHABAN45/SHABAN-MD/graphs/contributors)
+
+</div>
+
+</div>
+
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks To Our Loyal Followers</h2> <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/stargazers"> <img src="http://reporoster.com/stars/dark/MRSHABAN45/SHABAN-MD" alt="Stargazers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/network/members"> <img src="http://reporoster.com/forks/dark/MRSHABAN45/SHABAN-MD" alt="Forkers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <h1> ℕ𝕆 𝕃𝕆𝕍𝔼 💔 ℕ𝕆 𝕊𝕋ℝ𝔼𝕊𝕊 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> </h1>

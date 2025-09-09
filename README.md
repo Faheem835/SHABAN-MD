@@ -4,7 +4,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE+FORK+STAR+BOT+REPO" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg'/></a>
+  
+______
+
+
+[![Shaban](https://raw.githubusercontent.com/MRSHABAN45/SHABAN-MD/main/Shaban/mr.svg)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+___ 
 
 <p align="center">
   <a href="https://github.com/MRSHABAN42"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
@@ -54,14 +59,16 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 <a href='https://solar-linnell-shabansobxmd-409a0aff.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-008080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
+  
+-------------
 
-  <a href='https://shabanmd-pairweb.zone.id/' target="_blank">
+  <a href='https://teenage-esmeralda-sk66-485109a3.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF8C00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 -------------
 
-<a href="https://shabanmd.zone.id/">
+<a href="https://shaban.lovestoblog.com/">
   <img 
     title="DEPLOY-NOW" 
     src="https://img.shields.io/badge/DEPLOY--NOW-Click%20to%20deploy-9400D3?style=for-the-badge&logo=vercel&logoColor=blue"
